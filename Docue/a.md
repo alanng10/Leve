@@ -57,3 +57,5 @@ Leve has park cross.
 Leve has major.
 
 Leve has major on rate.
+
+The word "leve" is park word for level.
