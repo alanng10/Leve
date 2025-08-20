@@ -55,3 +55,5 @@ Level has park mark.
 Level has park cross.
 
 Level has major.
+
+Level has major on rate.
