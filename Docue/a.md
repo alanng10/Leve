@@ -1,6 +1,6 @@
 # Leve
 
-Leve is tier rate.
+Leve is tier rate. 
 
 Leve is park leve.
 
