@@ -59,3 +59,8 @@ Leve has major.
 Leve has major on rate.
 
 The word "leve" is park word for level.
+
+Leve word has pronoun.
+Leve word "le" is pronoun same as "le" in "left" in English.
+Leve word "ve" is pronoun same as "ve" in "love" in English.
+This is Leve word park pronoun.
